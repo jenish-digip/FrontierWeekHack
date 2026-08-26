@@ -16,7 +16,6 @@ build/
 *.env.local
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -33,3 +32,7 @@ site/
 
 # Workshop solutions
 challenge-*/sdk-track/solutions/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
